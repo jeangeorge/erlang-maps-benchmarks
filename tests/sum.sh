@@ -1,1 +1,0 @@
-mix escript.build && escript benchmarks "sum"

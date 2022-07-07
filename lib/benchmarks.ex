@@ -1,5 +1,5 @@
 defmodule Benchmarks do
-  defp sum do
+  defp add do
     Decimal.add(123, 456)
   end
 
@@ -28,7 +28,7 @@ defmodule Benchmarks do
       end
 
       result = case method do
-        "sum" -> sum()
+        "add" -> add()
         "div" -> div()
         "new" -> new()
         "bhaskara" -> bhaskara(1, -12, -640)
