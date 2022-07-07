@@ -8,6 +8,12 @@ defmodule Benchmarks do
     Decimal.add(Decimal.new(123), Decimal.new(456))
   end
 
+  defp triple_add do
+    Decimal.add(Decimal.new(123), Decimal.new(456))
+    Decimal.add(Decimal.new(123), Decimal.new(456))
+    Decimal.add(Decimal.new(123), Decimal.new(456))
+  end
+
   defp div do
     Decimal.div(876,2)
   end
@@ -38,6 +44,7 @@ defmodule Benchmarks do
         "new" -> new()
         "bhaskara" -> bhaskara(1, -12, -640)
         "double_add" -> double_add()
+        "triple_add" -> triple_add()
       end
 
       if (debug_active == "1") do
