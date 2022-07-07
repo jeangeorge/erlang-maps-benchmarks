@@ -38,6 +38,8 @@ defmodule Benchmarks do
         :erts_internal.debug_on()
       end
 
+      IO.puts :erts_debug.same(:erts_internal.map_to_tuple_keys(Decimal.new(1)), :erts_internal.map_to_tuple_keys(Decimal.new(2)))
+
       result = case method do
         "add" -> add()
         "div" -> div()
