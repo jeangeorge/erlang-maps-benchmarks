@@ -1,5 +1,5 @@
 folder=results
-tests="add div new bhaskara" # add a new test here
+tests="add div new bhaskara double_add" # add a new test here
 
 rm -rf $folder
 mkdir $folder
