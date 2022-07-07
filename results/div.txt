@@ -1,0 +1,57 @@
+[map] #{'__struct__'=>'Elixir.Decimal',coef=>876,exp=>0,sign=>1}
+[map] small 653 0x00007f5822198a18 4 1 '__struct__' 3320209199
+
+[map] #{'__struct__'=>'Elixir.Decimal',coef=>876,exp=>0,sign=>1}
+[map] small 654 0x00007f5822198a18 4 1 coef 4136545744
+
+[map] #{'__struct__'=>'Elixir.Decimal',coef=>2,exp=>0,sign=>1}
+[map] small 656 0x00007f5822198a78 4 1 '__struct__' 3320209199 coef 4136545744 
+
+[map] #{'__struct__'=>'Elixir.Decimal',coef=>876,exp=>0,sign=>1}
+[map] small 657 0x00007f5822198a18 4 1 coef 4136545744
+
+[map] #{'__struct__'=>'Elixir.Decimal',coef=>876,exp=>0,sign=>1}
+[map] small 659 0x00007f5822198a18 4 1 coef 4136545744 sign 2158006913 
+
+[map] #{'__struct__'=>'Elixir.Decimal',coef=>876,exp=>0,sign=>1}
+[map] small 661 0x00007f5822198a18 4 1 exp 1445917680 sign 2158006913 
+
+[map] #{'__struct__'=>'Elixir.Decimal',coef=>2,exp=>0,sign=>1}
+[map] small 662 0x00007f5822198a78 4 1 '__struct__' 3320209199 coef 4136545744 exp 1445917680 sign 2158006913 
+
+[map] #{'__struct__'=>'Elixir.Decimal',coef=>876,exp=>0,sign=>1}
+[map] small 663 0x00007f5822198a18 4 1 coef 4136545744
+
+[map] #{'__struct__'=>'Elixir.Decimal',coef=>876,exp=>0,sign=>1}
+[map] small 665 0x00007f5822198a18 4 1 sign 2158006913
+
+[map] #{'__struct__'=>'Elixir.Decimal',coef=>2,exp=>0,sign=>1}
+[map] small 666 0x00007f5822198a78 4 1 '__struct__' 3320209199 coef 4136545744 sign 2158006913 
+
+[map] #{'__struct__'=>'Elixir.Decimal',coef=>2,exp=>0,sign=>1}
+[map] small 667 0x00007f5822198a78 4 1 '__struct__' 3320209199
+
+[map] #{'__struct__'=>'Elixir.Decimal',coef=>876,exp=>0,sign=>1}
+[map] small 668 0x00007f5822198a18 4 1 coef 4136545744 exp 1445917680 sign 2158006913 
+
+[map] #{'__struct__'=>'Elixir.Decimal',coef=>2,exp=>0,sign=>1}
+[map] small 669 0x00007f5822198a78 4 1 coef 4136545744 exp 1445917680 sign 2158006913 
+
+[map] #{'__struct__'=>'Elixir.Decimal.Context',flags=>[],precision=>28,rounding=>half_up,traps=>[invalid_operation,division_by_zero]}
+[map] small 670 0x00007f583c78b810 5 1 precision 2061713103
+
+[map] #{'__struct__'=>'Elixir.Decimal.Context',flags=>[],precision=>28,rounding=>half_up,traps=>[invalid_operation,division_by_zero]}
+[map] small 650 0x00007f583c78b810 5 1 precision 2061713103
+
+[map] <error_handler:undefined_function/3+29>
+[map] large 651
+
+[map] #{'__struct__'=>'Elixir.Decimal',coef=>438,exp=>0,sign=>1}
+[map] small 760 0x00007f5822198ba0 4 1 '__struct__' 3320209199 coef 4136545744 
+
+[map] #{'__struct__'=>'Elixir.Decimal',coef=>438,exp=>0,sign=>1}
+[map] small 761 0x00007f5822198ba0 4 1 exp 1445917680 sign 2158006913 
+
+[map] #{'__struct__'=>'Elixir.Decimal.Context',flags=>[],precision=>28,rounding=>half_up,traps=>[invalid_operation,division_by_zero]}
+[map] small 798 0x00007f583c78b810 5 1 '__struct__' 3320209199
+
